@@ -1,3 +1,14 @@
+
+#theSCREEENGİF
+
+
+
+![SCREEN](https://github.com/user-attachments/assets/f19227cc-646b-4b1e-85e8-4cbb9ddd6448)
+
+
+
+
+
 -- npm i react-redux redux redux-thunk
 npm install @react-navigation/native
 npm install react-native-screens react-native-safe-area-context
